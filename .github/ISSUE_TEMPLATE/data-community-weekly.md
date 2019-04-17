@@ -11,8 +11,11 @@ assignees: ''
 
 [Describe the contents here]
 
-### Mindset/Science
+
+### Science/Math/Statistics
 
 ### Technology
 
-### Being Human/Communication
+### Communication/Visualization
+
+
