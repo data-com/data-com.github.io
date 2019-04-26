@@ -12,8 +12,8 @@ Roger Peng 和
 Elizabeth Matsui 的书，The Art of Data Science 里面写的 
 
 > Follow the ABCs
-> 1. Always be checking
-> 2. Always be challenging 
-> 3. Always be communicating
+> 1. Always Be Checking
+> 2. Always Be Challenging 
+> 3. Always Be Communicating
 
 这也是很多行当有趣的地方吧。

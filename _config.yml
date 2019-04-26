@@ -7,6 +7,7 @@ url           : https://getdataweekly.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
+mailchimp_archive: "https://us14.campaign-archive.com/home/?u=1a6385d3671373d04e3c464d5&id=afc7daa840"
 
 google_analytics  : UA-138941574-1
 twitter_username  : ""
