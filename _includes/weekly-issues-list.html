@@ -1,0 +1,20 @@
+
+
+
+
+        <article id="gh-issues" class="post-item">
+              </article>
+
+
+<script src="https://cdn.bootcss.com/jquery/3.4.0/jquery.js"></script>
+        
+<script>
+$(document).ready(function () {
+    var api = "https://api.github.com/repos/data-com/weekly/issues";
+    $.get(api, function (data) {
+        $.each(data, function (idx, obj) {
+            $("#gh-issues").append("<span class='post-meta date-label'>"+obj.updated_at + "</span><div class='article-title'><a class='post-link' href='" + obj.html_url+ "' target='_blank'>" + obj.title + "</a></div>");
+        });
+    });
+});
+</script>
