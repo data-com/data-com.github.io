@@ -3,7 +3,7 @@ title_left    : "Get"
 title_right   : "DataWeekly" # default: ""
 description   : "Data Science, Data Engineering, Data Visualization, Data Mining, 数据科学,数据工程,数据挖掘,数据可视化"
 keywords      : ""
-url           : https://getdataweekly.com # site url
+url           : https://data-com.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
